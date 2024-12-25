@@ -17,7 +17,8 @@ Follow these steps to set up the app locally:
 
 1. Clone the repository:
    ```bash
-  [```https://github.com/Mobile-Communication-ComputingIT3133/currency-convert-app.git```]
+   git clone https://github.com/Mobile-Communication-ComputingIT3133/currency-convert-app.git
+   ```
 
 2. Navigate to the project folder:
    ```bash
@@ -35,4 +36,3 @@ Follow these steps to set up the app locally:
 ---
 
 Feel free to fork, star, and contribute to improve this application! 🚀
-
